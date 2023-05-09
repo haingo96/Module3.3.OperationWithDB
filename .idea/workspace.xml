@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="120b51dc-ba49-4475-97db-8d6775366da9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ex1.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex2.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/6ee3d699-4320-4e6f-86da-00d2b2fac14e.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/6ee3d699-4320-4e6f-86da-00d2b2fac14e.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice2.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice2.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +36,7 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/ngoho/OneDrive/Desktop/CodeGym/Module3/_3_OperationWithDB",
+    "last_opened_file_path": "C:/Users/ngoho/OneDrive/Desktop/CodeGym/Module3/Minitest_week1",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -66,7 +67,7 @@
       <workItem from="1683517474330" duration="970000" />
       <workItem from="1683518582522" duration="241000" />
       <workItem from="1683518837389" duration="380000" />
-      <workItem from="1683519257725" duration="2575000" />
+      <workItem from="1683519257725" duration="8809000" />
     </task>
     <servers />
   </component>
